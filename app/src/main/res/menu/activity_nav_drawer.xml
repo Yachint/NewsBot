@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Personal"
+            android:title="Personalized" />
+        <item
+            android:id="@+id/World"
+            android:title="World" />
+        <item
+            android:id="@+id/India"
+            android:title="India" />
+        <item
+            android:id="@+id/Sports"
+            android:title="Sports" />
+        <item
+            android:id="@+id/Buisness"
+            android:title="Buisness" />
+        <item
+            android:id="@+id/Technology"
+            android:title="Technology" />
+        <item
+            android:id="@+id/Science"
+            android:title="Science" />
+    </group>
+
+    <item android:title="Other Features">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
