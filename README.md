@@ -44,4 +44,17 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * [Arnav Sir](https://github.com/championswimmer)
 
+## Screenshots
+
+![screenshot_2018-07-13-12-57-35-351_com blume newsbot](https://user-images.githubusercontent.com/40489793/42681894-9500821c-86a6-11e8-83bb-347039c78f40.png)
+![screenshot_2018-07-13-12-58-47-783_com blume newsbot](https://user-images.githubusercontent.com/40489793/42681895-9540f3b0-86a6-11e8-9c8c-240b728feab7.png)
+![screenshot_2018-07-13-12-59-12-917_com blume newsbot](https://user-images.githubusercontent.com/40489793/42681897-95809bfa-86a6-11e8-9ca4-f564cc135913.png)
+![screenshot_2018-07-13-12-59-20-533_com blume newsbot](https://user-images.githubusercontent.com/40489793/42681899-96118728-86a6-11e8-8263-33731cb03d6e.png)
+![screenshot_2018-07-13-12-59-25-075_com blume newsbot](https://user-images.githubusercontent.com/40489793/42681901-964d4d4e-86a6-11e8-9a55-e028db3d0f5a.png)
+![screenshot_2018-07-13-13-00-02-021_com blume newsbot](https://user-images.githubusercontent.com/40489793/42681902-96887d42-86a6-11e8-9e3f-7f82ddaa2132.png)
+![ezgif-5-2d26a55adc](https://user-images.githubusercontent.com/40489793/42681904-96c6246c-86a6-11e8-8b74-c5851b59c299.gif)
+![ezgif-5-2d2651e57b](https://user-images.githubusercontent.com/40489793/42681905-9703fca6-86a6-11e8-8f0e-262c2766dd9b.gif)
+![ezgif-5-73ae70022d](https://user-images.githubusercontent.com/40489793/42681906-97471a0e-86a6-11e8-8b9b-fe7167106291.gif)
+![ezgif-5-c765d9aef7](https://user-images.githubusercontent.com/40489793/42681907-97854ef0-86a6-11e8-980e-881682cfaffe.gif)
+
 
